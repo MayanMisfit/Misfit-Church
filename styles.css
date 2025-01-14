@@ -21,6 +21,7 @@ h1 {
     color: #ff6347; /* Tomato color for title */
     margin-bottom: 20px;
     font-size: 2.5em; /* Larger font size */
+    text-align: center !important;
 }
 
 h2 {
