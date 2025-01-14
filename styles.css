@@ -4,7 +4,7 @@ body {
     padding: 0;
     background-color: #000; /* Black background */
     color: #fff; /* White text */
-    text-align: center; /* Center align all text */
+    text-align: left; /* Center align all text */
 }
 
 .container {
